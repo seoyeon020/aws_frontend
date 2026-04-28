@@ -83,7 +83,7 @@ function App() {
         </section>
       </div>
 
-      {/* Preview Section */}
+      {/* Preview Section  */}
       {uploadedFileName && (
         <section style={{ ...sectionStyle, width: '80%', maxWidth: '800px', margin: '40px auto' }}>
           <h3>🖼️ S3 File Preview (Proxy)</h3>
